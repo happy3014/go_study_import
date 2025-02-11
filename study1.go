@@ -13,3 +13,7 @@ func PrintFunc2() {
 func PrintFunc3() {
 	fmt.Println("this is in go_study_import study1 func3")
 }
+
+func PrintFunc4() {
+	fmt.Println("this is in go_study_import study1 func4")
+}
